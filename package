@@ -1,0 +1,3 @@
+cd trunk
+tar -czvf ../ntags.tar.gz --exclude .svn ntags/
+cd ..
